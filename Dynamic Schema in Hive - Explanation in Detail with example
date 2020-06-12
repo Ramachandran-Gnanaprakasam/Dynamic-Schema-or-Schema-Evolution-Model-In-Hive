@@ -1,4 +1,4 @@
-Below details will give you the clear explanation of how to evolve the dynamic schema model in Hive. 
+Below explanation will give you the clear explanation of how to evolve the dynamic schema model in Hive. 
 
 -> If we don’t know the schema upfront or particularly load some data into hive table.
 -> First of all, we have to check what are all the data available in dataset and try to identify the schema of the data and mentioning the column name and everything then I go and define the column name in create table statement by mentioning the column names. Once I done then I create the table and do the load activity.
